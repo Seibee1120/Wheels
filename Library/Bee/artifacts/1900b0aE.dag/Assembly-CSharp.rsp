@@ -355,11 +355,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Notes/DelegateRegister.cs"
-"Assets/Notes/dotweenAni.cs"
-"Assets/Notes/test.cs"
-"Assets/Notes/UICircularScrollView.cs"
-"Assets/Notes/UINormalLoopScrollView.cs"
+"Assets/ScrollerView/DelegateRegister.cs"
+"Assets/ScrollerView/dotweenAni.cs"
+"Assets/ScrollerView/test.cs"
+"Assets/ScrollerView/UICircularScrollView.cs"
+"Assets/ScrollerView/UINormalLoopScrollView.cs"
 -langversion:9.0
 
 /deterministic
