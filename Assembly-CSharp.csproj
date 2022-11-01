@@ -36,9 +36,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\GetSpriteByPrefab.cs" />
      <Compile Include="Assets\ScrollerView\UINormalLoopScrollView.cs" />
      <Compile Include="Assets\ScrollerView\dotweenAni.cs" />
      <Compile Include="Assets\ScrollerView\UICircularScrollView.cs" />
+     <Compile Include="Assets\Scripts\Test.cs" />
      <Compile Include="Assets\ScrollerView\test.cs" />
      <Compile Include="Assets\ScrollerView\DelegateRegister.cs" />
     <Reference Include="UnityEngine">
